@@ -73,7 +73,7 @@ void rgbToHSV(float *rgb, float *hsv) {
         *h += 360;
 }
 ```
-在.c文件中导入的库：
+在.c文件中导以下的库：
 ```
 #include <stdio.h>
 #include <stdlib.h>
